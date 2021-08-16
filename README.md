@@ -73,6 +73,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
 
+Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
 ### Copyright
 
